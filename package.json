@@ -1,0 +1,15 @@
+{
+  "name": "tab-order",
+  "main": "./lib/tab-order",
+  "version": "1.0.0",
+  "description": "Disables MRU to original tab-behaviour.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/hanswilw/tab-order",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
